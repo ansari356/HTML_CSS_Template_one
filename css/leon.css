@@ -219,7 +219,7 @@ color: rgb(23, 194, 165);
 
     .landing{
         position: relative;
-        background-image: url(/myproject/img/landing.jpg);
+        background-image: url(/img/landing.jpg);
         background-size: cover;
         height: calc(100vh - 72px);
         /* 100vh = كل ارتفاع الشاشة = 100%
